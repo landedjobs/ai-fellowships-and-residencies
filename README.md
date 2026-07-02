@@ -7,7 +7,7 @@
   <img src="assets/banner-light.svg" alt="AI Fellowships & Residencies — the complete 2026 catalog" width="100%">
 </picture>
 
-![Programs](https://img.shields.io/badge/62%20programs-ff5b29?style=flat-square) ![Updated](https://img.shields.io/badge/updated-2026.07-00A86B?style=flat-square) [![Stars](https://img.shields.io/github/stars/landedjobs/ai-fellowships-and-residencies?style=social)](https://github.com/landedjobs/ai-fellowships-and-residencies)
+![Programs](https://img.shields.io/badge/75%20programs-ff5b29?style=flat-square) ![Updated](https://img.shields.io/badge/updated-2026.07-00A86B?style=flat-square) [![Stars](https://img.shields.io/github/stars/landedjobs/ai-fellowships-and-residencies?style=social)](https://github.com/landedjobs/ai-fellowships-and-residencies)
 
 **Every serious fellowship, residency, and structured program that gets you into AI — with stipends, eligibility, deadlines, and links.**
 
@@ -19,8 +19,180 @@
 
 > **How to use this list** — Structured programs beat cold applications for breaking into AI: they come with mentorship, compute, stipends, and conversion rates that a cold resume drop never will. Filter by your career stage — frontier-lab residencies and safety fellowships for researchers and switchers, accelerators for founders, policy fellowships for technologists heading to government. Dates marked "(estimated from past cycles)" are projections, not confirmed deadlines — always verify on the official page.
 
+## 🔥 Popular & New
+
+*The programs builders are actually competing for right now — the buzzy, high-signal residencies, fellowships, and grants topping 2025–2026 application lists.*
+
+> ➕ **Know a program we're missing?** [Add it →](https://github.com/landedjobs/ai-fellowships-and-residencies/issues/new?template=add-program.yml) · see [CONTRIBUTING](CONTRIBUTING.md)
+
+### HF0 Residency — HF0
+
+| | |
+|---|---|
+| **What** | 12-week SF founder residency · Dave Fontenot's "monastery for founders" — cohort dinners, meditation, a campus model inspired by monasteries |
+| **For** | Repeat founders (often late-20s/early-30s) with prior company-building experience and early traction |
+| **Deal** | $1M for 5% equity · 12 weeks in-person, San Francisco · Demo Day |
+| **🔥 Why it's hot** | Fontenot calls it "the most selective AI residency in the world" / "top 0.1%"; portfolio includes KREA, OpenRouter, and TwinMind |
+| **2026 cycle** | Two batches — Sept 13 start (Demo Day Dec 4) and Jan 4 start (Demo Day June 23); rolling applications |
+
+The prestige AI founder residency for repeat operators — Bloomberg covered its 2025 Demo Day. **[Apply / details →](https://www.hf0.com/apply)**
+
+### OpenAI Grove — OpenAI
+
+| | |
+|---|---|
+| **What** | 5-week program to "co-build" with OpenAI researchers · Pre-idea and very-early-stage technical founders, with hands-on early access to unreleased OpenAI tools |
+| **For** | Technical talent from any background — explicitly pre-idea, just starting, or preparing to launch |
+| **Deal** | Travel covered for the two in-person weeks + credits and capital intros · No equity taken (publicly disclosed) · OpenAI SF HQ |
+| **🔥 Why it's hot** | The closest thing to an "in" at OpenAI without being hired — direct mentorship from OpenAI technical leaders and pre-launch tooling; ~15 participants per cohort |
+| **2026 cycle** | Inaugural cohort Jan 22 – Feb 27, 2026 (applications closed Jan 12, 2026); next cohort timing not yet posted |
+
+Distinct from the older OpenAI Residency (see catalog below) — Grove is a pre-idea builder cohort, not an employment-style research program. **[Apply / details →](https://openai.com/index/openai-grove/)**
+
+### a16z speedrun — Andreessen Horowitz
+
+| | |
+|---|---|
+| **What** | 12-week SF in-person accelerator · AI, games, and infrastructure founders (intakes SR001→SR007) |
+| **For** | Early-stage AI founders — solo allowed, including those who have already raised |
+| **Deal** | $500K SAFE for 10% upfront + $500K in the next round (up to $1M total) + $5M+ in credits · No board seat |
+| **🔥 Why it's hot** | Reported ~0.4% acceptance (SR004: ~42 selected from 9,000+ applicants); $200M+ deployed across 250+ startups since 2023 |
+| **2026 cycle** | SR007 runs July 27 – Oct 11, 2026 in SF (deadline was May 17, 2026 — late applications roll to a future cohort) |
+
+The default 12-week AI accelerator for founders raising their first dollars. **[Apply / details →](https://speedrun.a16z.com/)** · [FAQ](https://speedrun.a16z.com/faq)
+
+### a16z FDE Fellowship — a16z Build
+
+| | |
+|---|---|
+| **What** | 8-week SF-first cohort (opt-in dinners + events) · For Forward Deployed Engineers and Applied AI Agent Builders shipping AI inside live enterprises |
+| **For** | People who self-identify as FDEs, Applied AI Agent Builders, or Directors of AI Deployment at AI-forward companies |
+| **Deal** | Peer/community cohort — no direct cash or equity disclosed; value is network + access to a16z's applied-AI team |
+| **🔥 Why it's hot** | New for 2026; mixes leaders from OpenAI, ElevenLabs, and Cursor; positioned around "the hottest jobs in tech" (FDE / agent deployment) |
+| **2026 cycle** | Applications opened May 28, 2026 (rolling), closed June 26, 2026 for the July 2026 launch |
+
+**On the "a16z FDE fellowship" question:** it is real — a16z Build launched the **FDE Fellowship** on May 28, 2026 (an 8-week community cohort for Forward Deployed Engineers, *not* an equity accelerator). Do not confuse it with **a16z speedrun** (above, equity/12-week) — they target very different builders. **[Apply / details →](https://build.a16z.com/fellowships/fde)** · [Announcement](https://www.a16z.news/p/introducing-the-a16z-fde-fellowship)
+
+### American Dynamism Engineering Fellows — a16z
+
+| | |
+|---|---|
+| **What** | 12-month, full-time, paid position inside a16z's American Dynamism investment team · Defense, energy, space, industrials, manufacturing, public safety |
+| **For** | Early-career engineers/researchers with hardware/software crossover (AI, autonomy, simulation, controls) |
+| **Deal** | Paid full-time (salary not posted) · 12 months |
+| **🔥 Why it's hot** | The rarest on-ramp from operator/researcher straight into a16z deal flow and portfolio for defense-tech venture |
+| **2026 cycle** | Rolling cohorts — check the a16z careers page |
+
+"Highly selective," targeting the "world's best engineers." **[Apply / details →](https://a16z.com/the-american-dynamism-engineering-fellows-program/)**
+
+### Thiel Fellowship — Thiel Foundation
+
+| | |
+|---|---|
+| **What** | Two-year program for young people who skip or stop out of college · The canonical "skip college, build a thing" fellowship |
+| **For** | Builders age 22 or younger, without a university degree; no requirement to relocate to SF |
+| **Deal** | $250,000 over two years (raised from the legacy $100K) · No equity taken |
+| **🔥 Why it's hot** | Materially more capitalized than in prior years; unlocks Peter Thiel's founder/VC network and treats dropping out as a badge of honor |
+| **2026 cycle** | Rolling applications, year-round |
+
+Highly competitive (rate not published). **[Apply / details →](https://thielfellowship.org/apply)**
+
+### 776 Fellowship — 776 Foundation
+
+| | |
+|---|---|
+| **What** | Two-year, full-time program for young builders tackling the climate crisis with Seven Seven Six network support · Encourages dropping out |
+| **For** | Builders ages 18–24 globally, working on climate-relevant frontier tech (AI-designed satellites, carbon-zero rare earths, etc.) |
+| **Deal** | Up to $100,000 grant, paid quarterly over two years · No equity |
+| **🔥 Why it's hot** | Alexis Ohanian's network + climate-frontier focus + "drop out and build" framing — the climate-aligned sibling of Thiel |
+| **2026 cycle** | 5th cohort selected May 2026, starts June 2026; join the email list for the next window |
+
+20 fellows per cohort. **[Apply / details →](https://776.org/)**
+
+### Z Fellows — Z Fellows
+
+| | |
+|---|---|
+| **What** | 1-week "sabbatical" fast-track into the Silicon Valley network · Turn a side project into a startup |
+| **For** | Builders and early founders at any stage, students welcome; global |
+| **Deal** | $10,000 for 1% (per program history) · 1 week + ongoing mentor network · Remote-friendly |
+| **🔥 Why it's hot** | Cory Levy's ultra-low-friction, high-signal pre-idea program — one of the cheapest ways into the SF founder network |
+| **2026 cycle** | Rolling cohorts |
+
+A fast on-ramp for side-project builders; alumni feed into larger accelerators. **[Apply / details →](https://www.zfellows.com/)**
+
+### Founders, Inc. — Founders, Inc.
+
+| | |
+|---|---|
+| **What** | 42,000 sq ft founder campus at Fort Mason that writes first checks and runs mini-programs ("Off Season" cohorts) · AI, AR/VR, B2B, hardware, robotics |
+| **For** | "Wildly ambitious" builders solving hard problems in emerging domains |
+| **Deal** | $100K–250K first checks · Workspace + capital in one place, San Francisco |
+| **🔥 Why it's hot** | Pitched as the "world's largest founder campus" — a physical anchor of SF's AI builder scene; "Off Season II" launched June 24, 2026 |
+| **2026 cycle** | General applications rolling; "Off Season II" open at f.inc/offseason/apply |
+
+**[Apply / details →](https://f.inc/apply)**
+
+### Pear Fellows & Pear Garage — Pear VC
+
+| | |
+|---|---|
+| **What** | Pear Fellows (year-long program) + Pear Garage (community for ~20 top engineering students/teams building real products) |
+| **For** | Stanford-adjacent engineering students and teams; Pear VC's dealflow pipeline |
+| **Deal** | Financial terms not publicly listed — some Fellows land Pear VC seed checks · Small cohort (~20 for Garage) |
+| **🔥 Why it's hot** | One of the strongest Stanford–Palo Alto talent funnels into AI seed investing |
+| **2026 cycle** | Pear Fellows deadline Sunday Aug 9, 2026 (2026–2027 cohort); Pear Garage rolls |
+
+**[Apply / details →](https://pear.vc/programs/dorm/fellows/)** · [Pear Garage](https://pear.vc/programs/dorm/garage/)
+
+### AI House (formerly AI2 Incubator) — AI House
+
+| | |
+|---|---|
+| **What** | Seattle AI incubator around three pillars — Capital, Incubator, Community · Operates a ~$80M Fund III for pre-seed checks |
+| **For** | Applied AI founders and companies across North America |
+| **Deal** | Pre-seed checks from Fund III (historically up to $600K + ~$1M non-dilutive cloud credits) · Founders work from the facility daily for ≥1 month · Seattle |
+| **🔥 Why it's hot** | The only major US AI-native incubator outside SF/NYC — the bridge from Paul Allen's research institute to applied AI founders |
+| **2026 cycle** | Rebranded from AI2 Incubator June 2026 (Yifan Zhang named Managing Director); applications rolling |
+
+**[Apply / details →](https://apply.ai2incubator.com/)** · [AI House](https://aihouse.vc/)
+
+### Afore Grants — Afore Capital
+
+| | |
+|---|---|
+| **What** | $1,000 non-dilutive grant + mentorship to turn an idea into conviction · Pre-idea founders |
+| **For** | Pre-idea founders globally |
+| **Deal** | $1,000 grant · No equity · Mentorship + Afore's pre-seed ecosystem |
+| **🔥 Why it's hot** | The cleanest zero-friction "first check" for an idea-stage founder — a micro-credential to stack before selective accelerators |
+| **2026 cycle** | Rolling (Afore's pre-seed Fund IV is ~$185M) |
+
+**[Apply / details →](https://grants.afore.vc/)**
+
+### Medici Project — 1517 Fund
+
+| | |
+|---|---|
+| **What** | $1,000 cash grants to build prototypes "at the edge of scientific research" |
+| **For** | Students, dropouts, and deep-tech scientists |
+| **Deal** | $1,000 · No equity · Rolling review (~200+ $1K grants deployed annually) |
+| **🔥 Why it's hot** | The most popular "give me a thousand bucks and I'll build" grant for student and dropout builders |
+| **2026 cycle** | Rolling; 2026 cycle ongoing |
+
+**[Apply / details →](https://www.1517fund.com/medici)**
+
+**Also hot (already in the catalog below):**
+[a16z speedrun](#speedrun--andreessen-horowitz) is also listed under Startup & VC · [South Park Commons Founder Fellowship](#founder-fellowship--south-park-commons) upgraded to $1M total ($400K/7% + $600K guaranteed follow-on) · [Neo Scholars](#neo-scholars--neo) + Neo Residency ("harder to get into than Harvard") · [AI Grant](#ai-grant--ai-grant-batch-4) · [Kleiner Perkins Fellows](#kleiner-perkins-fellows--kleiner-perkins) · [Emergent Ventures](#emergent-ventures--mercatus-center) ($1K–$50K, rolling) · [Entrepreneur First](#entrepreneur-first--entrepreneur-first) · [Interact Fellowship](#interact-fellowship--interact) · [Sequoia Arc](#arc--sequoia-capital) · plus [Anthropic Fellows](#anthropic-fellows-program--anthropic) and [MATS](#mats-summer-2026--mats-program) on the AI-safety side.
+
+> ⚠️ **Recently paused or discontinued (don't apply):** **a16z TxO (Talent x Opportunity)** was paused in November 2025 with staff layoffs ([TechCrunch](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/)) · **Buildspace** closed in August 2024 · a "**Localhost** Hack Club fellowship" could **not be verified** — the closest real Hack Club program is the [Media Gap Year Fellowship](https://media-fellowship.hackclub.com/) ($50k/year + $5k equipment). Perplexity's [AI Business Fellowship](https://fellowship.perplexity.ai/) is invite/approval-only and reads as a thought-leader network, not a builder accelerator.
+
+[⬆ back to top](#top)
+
+---
+
 ## Jump to
 
+- [🔥 Popular & New](#-popular--new) · **13**
 - [🧪 Frontier labs · 9](#-frontier-labs--9)
 - [🛡 AI safety & alignment · 18](#-ai-safety--alignment--18)
 - [🎓 Academic · 12](#-academic--12)

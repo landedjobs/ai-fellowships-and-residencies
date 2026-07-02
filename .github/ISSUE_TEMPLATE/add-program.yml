@@ -1,0 +1,49 @@
+name: ➕ Add a fellowship / residency
+description: Suggest a program to add (or flag one that's changed)
+title: "[program] "
+labels: ["new-program"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Program name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - 🔥 Popular & New (hot right now)
+        - Frontier labs
+        - AI safety & alignment
+        - Academic
+        - Startup & VC
+        - Policy, nonprofit & government
+        - Career-switcher & international-friendly
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What you know
+      description: Who it's for, stipend/equity, duration, location, next deadline, why it's worth including.
+  - type: dropdown
+    id: status
+    attributes:
+      label: Is it active?
+      options:
+        - Active / accepting applications
+        - Active but between cycles
+        - Discontinued or on hiatus (flag for the archive)
+        - Not sure
+    validations:
+      required: true
