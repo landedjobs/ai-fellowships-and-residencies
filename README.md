@@ -6,7 +6,7 @@
 
 <img src="https://static.b100x.ai/github-repos/images/ai-fellowships-and-residencies/banner.svg" alt="AI Fellowships & Residencies" width="100%">
 
-![Programs](https://img.shields.io/badge/75%20programs-ff5b29?style=flat-square) ![Updated](https://img.shields.io/badge/updated-2026.07-00A86B?style=flat-square) [![Stars](https://img.shields.io/github/stars/landedjobs/ai-fellowships-and-residencies?style=social)](https://github.com/landedjobs/ai-fellowships-and-residencies)
+![Programs](https://img.shields.io/badge/75%20programs-ff5b29?style=flat-square) ![Editorial review](https://img.shields.io/badge/editorial_review-2026.07.24-00A86B?style=flat-square) [![Link check](https://github.com/landedjobs/ai-fellowships-and-residencies/actions/workflows/link-check.yml/badge.svg)](https://github.com/landedjobs/ai-fellowships-and-residencies/actions/workflows/link-check.yml) [![Stars](https://img.shields.io/github/stars/landedjobs/ai-fellowships-and-residencies?style=social)](https://github.com/landedjobs/ai-fellowships-and-residencies)
 
 **Every serious fellowship, residency, and structured program that gets you into AI — with stipends, eligibility, deadlines, and links.**
 
@@ -17,6 +17,8 @@
 ---
 
 > **How to use this list** — Structured programs beat cold applications for breaking into AI: they come with mentorship, compute, stipends, and conversion rates that a cold resume drop never will. Filter by your career stage — frontier-lab residencies and safety fellowships for researchers and switchers, accelerators for founders, policy fellowships for technologists heading to government. Dates marked "(estimated from past cycles)" are projections, not confirmed deadlines — always verify on the official page.
+
+> **Freshness policy:** The editorial status of this catalog was reviewed on **July 24, 2026**. A scheduled link check runs weekly to catch moved or dead official pages. “Rolling” means the official program accepts applications without a published cutoff; “estimated” is never treated as a confirmed deadline. Program operators can change a date after review, so the linked official page remains authoritative.
 
 ## 🔥 Popular & New
 
