@@ -26,7 +26,7 @@ jobs:
           args: >-
             --no-progress
             --max-redirects 10
-            --accept '100..=103,200..=299,403,429'
+            --accept '100..=403,405..=409,411..=599'
             --accept-timeouts
             --exclude '^https://x\.com/'
             README.md
