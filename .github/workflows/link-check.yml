@@ -1,32 +1,25 @@
-name: Link check
+name: Local link check
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
   push:
-    paths:
-      - "README.md"
-      - ".github/workflows/link-check.yml"
-  schedule:
-    - cron: "17 6 * * 1"
+    branches: [main]
   pull_request:
-    paths:
-      - "README.md"
 
 permissions:
   contents: read
 
 jobs:
-  links:
+  local-links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check public program links
+
+      - name: Check local Markdown links
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
+            --offline
             --no-progress
-            --max-redirects 10
-            --accept '100..=403,405..=409,411..=599'
-            --accept-timeouts
-            --exclude '^https://x\.com/'
-            README.md
+            './**/*.md'
+          fail: true
