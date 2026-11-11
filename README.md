@@ -14,6 +14,12 @@
 
 </div>
 
+> [!IMPORTANT]
+> **This catalog was last reviewed on 24 Jul 2026.** Programs and deadlines may have changed, so check each official page. For open roles today, see [new-grad-and-entry-level-tech-jobs](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs), [tech-internships](https://github.com/landedjobs/tech-internships) and [applied-scientist-and-research-engineer-jobs](https://github.com/landedjobs/applied-scientist-and-research-engineer-jobs), all updated daily.
+>
+> Or **[let landed find AI roles that fit you and apply for you](https://app.landed.jobs/signup?from=github&cta=archived-notice&utm_source=github&utm_medium=referral&utm_campaign=github-ai-fellowships-and-residencies&utm_content=github-archived-notice)**. Your first 10 applications are free.
+
+
 ---
 
 > **How to use this list** — Structured programs beat cold applications for breaking into AI: they come with mentorship, compute, stipends, and conversion rates that a cold resume drop never will. Filter by your career stage — frontier-lab residencies and safety fellowships for researchers and switchers, accelerators for founders, policy fellowships for technologists heading to government. Dates marked "(estimated from past cycles)" are projections, not confirmed deadlines — always verify on the official page.
